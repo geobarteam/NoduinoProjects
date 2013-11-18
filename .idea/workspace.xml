@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d336c15-5195-4f8a-b741-d4d953727a14" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/domoServerTyped.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/domoServer.js" afterPath="$PROJECT_DIR$/projects/domoServer.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -31,7 +29,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projects/domotique/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="45" selection-start="308" selection-end="322" vertical-scroll-proportion="-0.0" vertical-offset="135" max-vertical-offset="510">
+            <state line="9" column="45" selection-start="308" selection-end="322" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="510">
               <folding />
             </state>
           </provider>
@@ -58,7 +56,7 @@
       <file leaf-file-name="domoServer.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/projects/domoServer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="38" selection-start="680" selection-end="680" vertical-scroll-proportion="0.46948355" vertical-offset="0" max-vertical-offset="795">
+            <state line="21" column="24" selection-start="676" selection-end="676" vertical-scroll-proportion="0.02347418" vertical-offset="300" max-vertical-offset="945">
               <folding />
             </state>
           </provider>
@@ -67,7 +65,7 @@
       <file leaf-file-name="domoServerTyped.ts" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projects/domoServerTyped.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="31" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855">
+            <state line="15" column="31" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="855">
               <folding />
             </state>
           </provider>
@@ -76,7 +74,7 @@
       <file leaf-file-name="module.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Library/Caches/WebStorm7/extLibs/nodejs-v0.10.21-src/core-modules-sources/lib/module.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="312" column="0" selection-start="8901" selection-end="8901" vertical-scroll-proportion="0.0" vertical-offset="4229" max-vertical-offset="7860">
+            <state line="312" column="0" selection-start="8901" selection-end="8901" vertical-scroll-proportion="0.0" vertical-offset="4680" max-vertical-offset="8145">
               <folding />
             </state>
           </provider>
@@ -103,17 +101,8 @@
       <file leaf-file-name="domoServerTyped.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projects/domoServerTyped.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="22" selection-start="838" selection-end="838" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825">
-              <folding>
-                <marker date="1384695274000" expanded="true" signature="202:505" placeholder="{...}" />
-                <marker date="1384695274000" expanded="true" signature="243:308" placeholder="{...}" />
-                <marker date="1384695274000" expanded="true" signature="431:479" placeholder="{...}" />
-                <marker date="1384695274000" expanded="true" signature="431:462" placeholder="{...}" />
-                <marker date="1384695274000" expanded="true" signature="527:555" placeholder="{...}" />
-                <marker date="1384695274000" expanded="true" signature="568:692" placeholder="[...]" />
-                <marker date="1384695274000" expanded="true" signature="742:1567" placeholder="{...}" />
-                <marker date="1384695274000" expanded="true" signature="1238:1279" placeholder="{&quot;pin&quot;: 'A2'...}" />
-              </folding>
+            <state line="27" column="22" selection-start="838" selection-end="838" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="825">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -157,7 +146,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="77" />
-    <option name="y" value="39" />
+    <option name="y" value="30" />
     <option name="width" value="1843" />
     <option name="height" value="970" />
   </component>
@@ -187,7 +176,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -330,6 +318,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -463,11 +452,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="77" y="39" width="1843" height="970" extended-state="0" />
+    <frame x="77" y="30" width="1843" height="970" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914287" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17091699" sideWeight="0.7622857" order="0" side_tool="false" content_ui="combo" />
@@ -504,30 +493,22 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/projects/analogRead0.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="14" selection-start="289" selection-end="289" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="735">
-          <folding />
-        </state>
+        <state line="6" column="14" selection-start="289" selection-end="289" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="735" />
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Library/Caches/WebStorm7/extLibs/nodejs-v0.10.21-src/core-modules-sources/lib/net.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="911" column="0" selection-start="23209" selection-end="23209" vertical-scroll-proportion="0.0" vertical-offset="13285" max-vertical-offset="19680">
-          <folding />
-        </state>
+        <state line="911" column="0" selection-start="23209" selection-end="23209" vertical-scroll-proportion="0.0" vertical-offset="13285" max-vertical-offset="19680" />
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Library/Caches/WebStorm7/extLibs/nodejs-v0.10.21-src/core-modules-sources/lib/http.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1899" column="0" selection-start="54060" selection-end="54060" vertical-scroll-proportion="0.0" vertical-offset="28105" max-vertical-offset="32310">
-          <folding />
-        </state>
+        <state line="1899" column="0" selection-start="54060" selection-end="54060" vertical-scroll-proportion="0.0" vertical-offset="28105" max-vertical-offset="32310" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/socket.io/lib/socket.io.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="3" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0" vertical-offset="1674" max-vertical-offset="2235">
-          <folding />
-        </state>
+        <state line="19" column="3" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0" vertical-offset="1674" max-vertical-offset="2235" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/kickstart/node_modules/less/build/require-rhino.js">
@@ -537,9 +518,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/projects/analogRead0.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="9" selection-start="697" selection-end="1277" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735">
-          <folding />
-        </state>
+        <state line="32" column="9" selection-start="697" selection-end="1277" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/projects/domotique/public/index.html">
@@ -580,16 +559,7 @@
     <entry file="file://$PROJECT_DIR$/projects/domoServerTyped.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="22" selection-start="838" selection-end="838" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825">
-          <folding>
-            <marker date="1384695274000" expanded="true" signature="202:505" placeholder="{...}" />
-            <marker date="1384695274000" expanded="true" signature="243:308" placeholder="{...}" />
-            <marker date="1384695274000" expanded="true" signature="431:479" placeholder="{...}" />
-            <marker date="1384695274000" expanded="true" signature="431:462" placeholder="{...}" />
-            <marker date="1384695274000" expanded="true" signature="527:555" placeholder="{...}" />
-            <marker date="1384695274000" expanded="true" signature="568:692" placeholder="[...]" />
-            <marker date="1384695274000" expanded="true" signature="742:1567" placeholder="{...}" />
-            <marker date="1384695274000" expanded="true" signature="1238:1279" placeholder="{&quot;pin&quot;: 'A2'...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -616,7 +586,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/projects/domoServer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="38" selection-start="680" selection-end="680" vertical-scroll-proportion="0.46948355" vertical-offset="0" max-vertical-offset="795">
+        <state line="21" column="24" selection-start="676" selection-end="676" vertical-scroll-proportion="0.02347418" vertical-offset="300" max-vertical-offset="945">
           <folding />
         </state>
       </provider>
