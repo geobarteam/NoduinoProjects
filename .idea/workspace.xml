@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d336c15-5195-4f8a-b741-d4d953727a14" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/domoServer.js" afterPath="$PROJECT_DIR$/projects/domoServer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/domotique/lib/DomoServer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/domotique/Test/test.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/npm-debug.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/domoServer.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/NoduinoProjects.iml" afterPath="$PROJECT_DIR$/.idea/NoduinoProjects.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="NoduinoProjects.iws" />
@@ -26,46 +30,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projects/domotique/public/index.html">
+      <file leaf-file-name="core.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/nodeunit/lib/core.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="45" selection-start="308" selection-end="322" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="510">
+            <state line="165" column="0" selection-start="4179" selection-end="4179" vertical-scroll-proportion="0.0" vertical-offset="2475" max-vertical-offset="4860">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/socket.io/index.js">
+      <file leaf-file-name="nodeunit-intellij-starter.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file:///private/var/folders/hp/bslp3tfx2w3313q_bgq7n2rh0000gn/T/nodeunit-intellij-starter.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+            <state line="343" column="0" selection-start="12267" selection-end="12267" vertical-scroll-proportion="0.0" vertical-offset="4990" max-vertical-offset="5775">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Readme.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/socket.io/Readme.md">
+      <file leaf-file-name="async.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/nodeunit/deps/async.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="3" selection-start="1062" selection-end="1062" vertical-scroll-proportion="0.0" vertical-offset="795" max-vertical-offset="5550">
+            <state line="515" column="0" selection-start="15384" selection-end="15384" vertical-scroll-proportion="0.0" vertical-offset="7565" max-vertical-offset="9510">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="domoServer.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/projects/domoServer.js">
+      <file leaf-file-name="utils.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/nodeunit/lib/utils.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="24" selection-start="676" selection-end="676" vertical-scroll-proportion="0.02347418" vertical-offset="300" max-vertical-offset="945">
+            <state line="88" column="0" selection-start="2514" selection-end="2514" vertical-scroll-proportion="0.0" vertical-offset="1320" max-vertical-offset="3330">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="domoServerTyped.ts" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projects/domoServerTyped.ts">
+      <file leaf-file-name="DomoServer.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/domotique/lib/DomoServer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="31" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="855">
+            <state line="32" column="52" selection-start="910" selection-end="910" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="startDomoServer.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/projects/startDomoServer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="11" selection-start="1003" selection-end="1003" vertical-scroll-proportion="0.71747965" vertical-offset="7" max-vertical-offset="510">
               <folding />
             </state>
           </provider>
@@ -74,7 +87,25 @@
       <file leaf-file-name="module.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Library/Caches/WebStorm7/extLibs/nodejs-v0.10.21-src/core-modules-sources/lib/module.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="312" column="0" selection-start="8901" selection-end="8901" vertical-scroll-proportion="0.0" vertical-offset="4680" max-vertical-offset="8145">
+            <state line="498" column="0" selection-start="13959" selection-end="13959" vertical-scroll-proportion="0.0" vertical-offset="7018" max-vertical-offset="7860">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="timers.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Library/Caches/WebStorm7/extLibs/nodejs-v0.10.21-src/core-modules-sources/lib/timers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="114" column="0" selection-start="3567" selection-end="3567" vertical-scroll-proportion="0.0" vertical-offset="1258" max-vertical-offset="7050">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Noduino.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/scripts/libs/Noduino.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="64" column="0" selection-start="1704" selection-end="1704" vertical-scroll-proportion="0.0" vertical-offset="547" max-vertical-offset="1050">
               <folding />
             </state>
           </provider>
@@ -83,34 +114,7 @@
       <file leaf-file-name="r.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/node_modules/requirejs/bin/r.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1970" column="0" selection-start="77726" selection-end="77726" vertical-scroll-proportion="0.0" vertical-offset="29404" max-vertical-offset="390975">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Board.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/scripts/libs/Board.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2565">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="domoServerTyped.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projects/domoServerTyped.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="22" selection-start="838" selection-end="838" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="825">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3-websockets.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projects/3-websockets.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
+            <state line="2524" column="0" selection-start="98943" selection-end="98943" vertical-scroll-proportion="0.0" vertical-offset="37697" max-vertical-offset="390975">
               <folding />
             </state>
           </provider>
@@ -140,15 +144,19 @@
         <option value="$PROJECT_DIR$/projects/domotique/domoServer.js" />
         <option value="$PROJECT_DIR$/projects/bac" />
         <option value="$PROJECT_DIR$/projects/domoServerTyped.ts" />
+        <option value="$PROJECT_DIR$/node_modules/nodeunit/test/test.html" />
         <option value="$PROJECT_DIR$/projects/domoServer.js" />
+        <option value="$PROJECT_DIR$/projects/domotique/Test/test.js" />
+        <option value="$PROJECT_DIR$/projects/startDomoServer.js" />
+        <option value="$PROJECT_DIR$/projects/domotique/lib/DomoServer.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="77" />
-    <option name="y" value="30" />
-    <option name="width" value="1843" />
-    <option name="height" value="970" />
+    <option name="x" value="4" />
+    <option name="y" value="27" />
+    <option name="width" value="1706" />
+    <option name="height" value="719" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -176,6 +184,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -183,15 +192,9 @@
               <option name="myItemId" value="NoduinoProjects" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="NoduinoProjects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NoduinoProjects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -202,68 +205,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="NoduinoProjects" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NoduinoProjects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NoduinoProjects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NoduinoProjects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NoduinoProjects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="libs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NoduinoProjects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NoduinoProjects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="projects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="domoServerTyped.ts" />
-              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -297,8 +238,26 @@
               <option name="myItemId" value="domotique" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
+              <option name="myItemId" value="NoduinoProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NoduinoProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="domotique" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -318,18 +277,19 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/projects/startDomoServer.js" />
+    <property name="restartRequiresConfirmation" value="true" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -345,6 +305,11 @@
     </key>
   </component>
   <component name="RunManager" selected="Node.js.domoServer.js">
+    <configuration default="false" name="test.html" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true" temporary="true" uri="http://localhost:63342/NoduinoProjects/node_modules/nodeunit/test/test.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
     <configuration default="false" name="domoServerTyped.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="domoServerTyped.js" working-dir="$PROJECT_DIR$/projects">
       <browser start="false" url="" with-js-debugger="false" />
       <RunnerSettings RunnerId="NodeJS.debug" />
@@ -367,12 +332,12 @@
       <ConfigurationWrapper RunnerId="NodeJS.run" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
+    <configuration default="false" name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/projects/domotique/Test">
+      <browser start="false" url="" with-js-debugger="false" />
+      <RunnerSettings RunnerId="NodeJS.debug" />
+      <RunnerSettings RunnerId="NodeJS.run" />
+      <ConfigurationWrapper RunnerId="NodeJS.debug" />
+      <ConfigurationWrapper RunnerId="NodeJS.run" />
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -385,6 +350,18 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
@@ -392,8 +369,18 @@
       <setting name="preferredDebugBrowser" value="CHROME" />
       <method />
     </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+    <configuration default="true" type="NodeunitConfigurationType" factoryName="Nodeunit">
+      <setting name="nodePath" value="/usr/local/bin/node" />
       <envs />
+      <setting name="passParentEnvVars" value="true" />
+      <setting name="nodeunitModuleDir" value="$PROJECT_DIR$/node_modules/nodeunit" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="testType" value="DIRECTORY" />
+      <setting name="directory" value="projects/domotique/Test" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSRemoteDebug" factoryName="Node.js Remote Debug">
+      <node-js-remote-debug />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -403,7 +390,7 @@
       <browser start="false" url="" with-js-debugger="false" />
       <method />
     </configuration>
-    <configuration default="false" name="domoServer.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="/usr/local/bin/node" path-to-js-file="domoServer.js" working-dir="$PROJECT_DIR$/projects">
+    <configuration default="false" name="domoServer.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="/usr/local/bin/node" path-to-js-file="startDomoServer.js" working-dir="$PROJECT_DIR$/projects">
       <browser start="false" url="" with-js-debugger="false" />
       <RunnerSettings RunnerId="NodeJS.debug" />
       <RunnerSettings RunnerId="NodeJS.run" />
@@ -411,17 +398,36 @@
       <ConfigurationWrapper RunnerId="NodeJS.run" />
       <method />
     </configuration>
-    <list size="4">
+    <configuration default="false" name="test" type="NodeunitConfigurationType" factoryName="Nodeunit">
+      <setting name="nodePath" value="/usr/local/bin/node" />
+      <envs />
+      <setting name="passParentEnvVars" value="true" />
+      <setting name="nodeunitModuleDir" value="$PROJECT_DIR$/node_modules/nodeunit" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$/projects" />
+      <setting name="testType" value="DIRECTORY" />
+      <setting name="directory" value="domotique/Test" />
+      <RunnerSettings RunnerId="Nodeunit.debug" />
+      <RunnerSettings RunnerId="Nodeunit.run" />
+      <ConfigurationWrapper RunnerId="Nodeunit.debug" />
+      <ConfigurationWrapper RunnerId="Nodeunit.run" />
+      <method />
+    </configuration>
+    <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Node.js.domoServer.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.domoServerTyped.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.socketioexample.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.analogRead0.js" />
+      <item index="1" class="java.lang.String" itemvalue="Nodeunit.test" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.test.html" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.domoServerTyped.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.socketioexample.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.analogRead0.js" />
+      <item index="6" class="java.lang.String" itemvalue="Node.js.test.js" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.domoServerTyped.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.analogRead0.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.socketioexample.js" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.test.js" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.test.html" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.domoServerTyped.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.analogRead0.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.socketioexample.js" />
       </list>
     </recent_temporary>
   </component>
@@ -452,26 +458,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="77" y="30" width="1843" height="970" extended-state="0" />
+    <frame x="4" y="27" width="1706" height="719" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914287" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852563" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17091699" sideWeight="0.7622857" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39885715" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18464243" sideWeight="0.8333333" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2996795" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23771429" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16666667" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39903846" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -487,96 +493,10 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="16" />
+      <option name="time" value="41" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/projects/analogRead0.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="14" selection-start="289" selection-end="289" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="735" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/WebStorm7/extLibs/nodejs-v0.10.21-src/core-modules-sources/lib/net.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="911" column="0" selection-start="23209" selection-end="23209" vertical-scroll-proportion="0.0" vertical-offset="13285" max-vertical-offset="19680" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/WebStorm7/extLibs/nodejs-v0.10.21-src/core-modules-sources/lib/http.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1899" column="0" selection-start="54060" selection-end="54060" vertical-scroll-proportion="0.0" vertical-offset="28105" max-vertical-offset="32310" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/socket.io/lib/socket.io.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="3" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0" vertical-offset="1674" max-vertical-offset="2235" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/kickstart/node_modules/less/build/require-rhino.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="9" selection-start="46" selection-end="46" vertical-scroll-proportion="0.027881041" vertical-offset="0" max-vertical-offset="538" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/analogRead0.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="9" selection-start="697" selection-end="1277" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/domotique/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="45" selection-start="308" selection-end="322" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="510">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/socket.io/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/socket.io/Readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="3" selection-start="1062" selection-end="1062" vertical-scroll-proportion="0.0" vertical-offset="720" max-vertical-offset="5550">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/scripts/libs/Board.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2565">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/3-websockets.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/domoServerTyped.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="22" selection-start="838" selection-end="838" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/WebStorm7/extLibs/nodejs-v0.10.21-src/core-modules-sources/lib/module.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="312" column="0" selection-start="8901" selection-end="8901" vertical-scroll-proportion="0.0" vertical-offset="4229" max-vertical-offset="7860">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/requirejs/bin/r.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1970" column="0" selection-start="77726" selection-end="77726" vertical-scroll-proportion="0.0" vertical-offset="29404" max-vertical-offset="390975">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/projects/domoServerTyped.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="31" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855">
@@ -584,9 +504,99 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projects/domoServer.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/nodeunit/test/test-base.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="24" selection-start="676" selection-end="676" vertical-scroll-proportion="0.02347418" vertical-offset="300" max-vertical-offset="945">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-7.203125" vertical-offset="3227" max-vertical-offset="3675" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/nodeunit/test/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="17" selection-start="309" selection-end="309" vertical-scroll-proportion="0.28301886" vertical-offset="0" max-vertical-offset="510" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/analogRead0.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="9" selection-start="697" selection-end="1277" vertical-scroll-proportion="0.41379312" vertical-offset="300" max-vertical-offset="735" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/WebStorm7/extLibs/nodejs-v0.10.21-src/core-modules-sources/lib/fs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="123" column="7" selection-start="3960" selection-end="3960" vertical-scroll-proportion="0.8333333" vertical-offset="1160" max-vertical-offset="26190" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/domotique/Test/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="0" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/nodeunit/lib/core.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="165" column="0" selection-start="4179" selection-end="4179" vertical-scroll-proportion="0.0" vertical-offset="2177" max-vertical-offset="4725">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///private/var/folders/hp/bslp3tfx2w3313q_bgq7n2rh0000gn/T/nodeunit-intellij-starter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="343" column="0" selection-start="12267" selection-end="12267" vertical-scroll-proportion="0.0" vertical-offset="4990" max-vertical-offset="5775">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/nodeunit/deps/async.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="515" column="0" selection-start="15384" selection-end="15384" vertical-scroll-proportion="0.0" vertical-offset="7565" max-vertical-offset="9510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/nodeunit/lib/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="88" column="0" selection-start="2514" selection-end="2514" vertical-scroll-proportion="0.0" vertical-offset="1100" max-vertical-offset="3270">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/WebStorm7/extLibs/nodejs-v0.10.21-src/core-modules-sources/lib/module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="498" column="0" selection-start="13959" selection-end="13959" vertical-scroll-proportion="0.0" vertical-offset="7018" max-vertical-offset="7860">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/WebStorm7/extLibs/nodejs-v0.10.21-src/core-modules-sources/lib/timers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="114" column="0" selection-start="3567" selection-end="3567" vertical-scroll-proportion="0.0" vertical-offset="1258" max-vertical-offset="7050">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/requirejs/bin/r.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2524" column="0" selection-start="98943" selection-end="98943" vertical-scroll-proportion="0.0" vertical-offset="37697" max-vertical-offset="390975">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/scripts/libs/Noduino.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="0" selection-start="1704" selection-end="1704" vertical-scroll-proportion="0.0" vertical-offset="547" max-vertical-offset="1050">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/domotique/lib/DomoServer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="52" selection-start="910" selection-end="910" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/startDomoServer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="11" selection-start="1003" selection-end="1003" vertical-scroll-proportion="0.71747965" vertical-offset="7" max-vertical-offset="510">
           <folding />
         </state>
       </provider>
