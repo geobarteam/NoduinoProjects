@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d336c15-5195-4f8a-b741-d4d953727a14" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/domotique/lib/DomoServer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/domotique/Test/test.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/npm-debug.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/domoServer.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/NoduinoProjects.iml" afterPath="$PROJECT_DIR$/.idea/NoduinoProjects.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/domotique/Test/test.js" afterPath="$PROJECT_DIR$/projects/domotique/Test/test.js" />
     </list>
     <ignored path="NoduinoProjects.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,19 +25,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="core.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/nodeunit/lib/core.js">
+      <file leaf-file-name="test.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/projects/domotique/Test/test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="165" column="0" selection-start="4179" selection-end="4179" vertical-scroll-proportion="0.0" vertical-offset="2475" max-vertical-offset="4860">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="nodeunit-intellij-starter.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file:///private/var/folders/hp/bslp3tfx2w3313q_bgq7n2rh0000gn/T/nodeunit-intellij-starter.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="343" column="0" selection-start="12267" selection-end="12267" vertical-scroll-proportion="0.0" vertical-offset="4990" max-vertical-offset="5775">
+            <state line="27" column="6" selection-start="440" selection-end="440" vertical-scroll-proportion="0.43467337" vertical-offset="232" max-vertical-offset="810">
               <folding />
             </state>
           </provider>
@@ -69,16 +55,25 @@
       <file leaf-file-name="DomoServer.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projects/domotique/lib/DomoServer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="52" selection-start="910" selection-end="910" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825">
+            <state line="21" column="12" selection-start="635" selection-end="635" vertical-scroll-proportion="0.0" vertical-offset="258" max-vertical-offset="825">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="startDomoServer.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/domotique/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="510">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="startDomoServer.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projects/startDomoServer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="11" selection-start="1003" selection-end="1003" vertical-scroll-proportion="0.71747965" vertical-offset="7" max-vertical-offset="510">
+            <state line="24" column="11" selection-start="1003" selection-end="1003" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
               <folding />
             </state>
           </provider>
@@ -146,9 +141,9 @@
         <option value="$PROJECT_DIR$/projects/domoServerTyped.ts" />
         <option value="$PROJECT_DIR$/node_modules/nodeunit/test/test.html" />
         <option value="$PROJECT_DIR$/projects/domoServer.js" />
-        <option value="$PROJECT_DIR$/projects/domotique/Test/test.js" />
         <option value="$PROJECT_DIR$/projects/startDomoServer.js" />
         <option value="$PROJECT_DIR$/projects/domotique/lib/DomoServer.js" />
+        <option value="$PROJECT_DIR$/projects/domotique/Test/test.js" />
       </list>
     </option>
   </component>
@@ -238,6 +233,32 @@
               <option name="myItemId" value="domotique" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NoduinoProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NoduinoProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="domotique" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -304,7 +325,7 @@
       <recent name="$PROJECT_DIR$/projects/domotique/public" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.domoServer.js">
+  <component name="RunManager" selected="Nodeunit.test">
     <configuration default="false" name="test.html" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true" temporary="true" uri="http://localhost:63342/NoduinoProjects/node_modules/nodeunit/test/test.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
@@ -466,11 +487,11 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18464243" sideWeight="0.8333333" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18464243" sideWeight="0.6826923" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2996795" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16666667" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31730768" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -497,13 +518,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/projects/domoServerTyped.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="31" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/nodeunit/test/test-base.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-7.203125" vertical-offset="3227" max-vertical-offset="3675" />
@@ -522,13 +536,6 @@
     <entry file="file://$USER_HOME$/Library/Caches/WebStorm7/extLibs/nodejs-v0.10.21-src/core-modules-sources/lib/fs.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="123" column="7" selection-start="3960" selection-end="3960" vertical-scroll-proportion="0.8333333" vertical-offset="1160" max-vertical-offset="26190" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/domotique/Test/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/nodeunit/lib/core.js">
@@ -587,16 +594,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projects/domotique/lib/DomoServer.js">
+    <entry file="file://$PROJECT_DIR$/projects/startDomoServer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="52" selection-start="910" selection-end="910" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825">
+        <state line="24" column="11" selection-start="1003" selection-end="1003" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projects/startDomoServer.js">
+    <entry file="file://$PROJECT_DIR$/projects/domotique/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="11" selection-start="1003" selection-end="1003" vertical-scroll-proportion="0.71747965" vertical-offset="7" max-vertical-offset="510">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/domotique/lib/DomoServer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="12" selection-start="635" selection-end="635" vertical-scroll-proportion="0.0" vertical-offset="183" max-vertical-offset="825">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/domotique/Test/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="6" selection-start="440" selection-end="440" vertical-scroll-proportion="0.43467337" vertical-offset="232" max-vertical-offset="810">
           <folding />
         </state>
       </provider>

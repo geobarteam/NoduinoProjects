@@ -15,14 +15,31 @@ exports.testSomething = function(test){
         return noduino;
     })();
 
-    var fileServer = (function(){
-        function fileServer(){
+    var static = {
+        Server : function(){}
+    };
 
+    var http ={
+        createServer: function(){
+            return {
+                listen : function(){}
+            }
         }
-        return fileServer;
-    })();
+    };
 
-    var domoServer = new Domo.DomoServer(new noduino(), new fileServer());
+    var sockets = {
+        on : function(){}
+    };
+
+    var socketio = { listen:function() {
+        return { sockets: function() {
+            return sockets;
+            }()
+        }
+    }};
+
+    var fileServer = new Domo.FileServer(http, static, "");
+    var domoServer = new Domo.DomoServer(new noduino(), fileServer, socketio);
     domoServer.listen();
     test.ok(domoServer!=undefined, "this assertion should pass");
 
